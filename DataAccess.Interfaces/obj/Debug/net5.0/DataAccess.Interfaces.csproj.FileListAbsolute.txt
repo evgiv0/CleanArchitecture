@@ -1,0 +1,15 @@
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\bin\Debug\net5.0\DataAccess.Interfaces.deps.json
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\bin\Debug\net5.0\DataAccess.Interfaces.dll
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\bin\Debug\net5.0\ref\DataAccess.Interfaces.dll
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\bin\Debug\net5.0\DataAccess.Interfaces.pdb
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\bin\Debug\net5.0\Domain.dll
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\bin\Debug\net5.0\Domain.pdb
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\DataAccess.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\DataAccess.Interfaces.AssemblyInfoInputs.cache
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\DataAccess.Interfaces.AssemblyInfo.cs
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\DataAccess.Interfaces.csproj.CoreCompileInputs.cache
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\DataAccess.Interfaces.csproj.CopyComplete
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\DataAccess.Interfaces.dll
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\ref\DataAccess.Interfaces.dll
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\DataAccess.Interfaces.pdb
+Z:\Projects\CleanArchitecture\DataAccess.Interfaces\obj\Debug\net5.0\DataAccess.Interfaces.csprojAssemblyReference.cache

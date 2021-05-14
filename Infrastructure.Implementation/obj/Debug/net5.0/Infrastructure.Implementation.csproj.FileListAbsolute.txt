@@ -1,0 +1,17 @@
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\bin\Debug\net5.0\Infrastructure.Implementation.deps.json
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\bin\Debug\net5.0\Infrastructure.Implementation.dll
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\bin\Debug\net5.0\ref\Infrastructure.Implementation.dll
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\bin\Debug\net5.0\Infrastructure.Implementation.pdb
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\bin\Debug\net5.0\Domain.dll
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\bin\Debug\net5.0\Infrastructure.Interfaces.dll
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\bin\Debug\net5.0\Infrastructure.Interfaces.pdb
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\bin\Debug\net5.0\Domain.pdb
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\Infrastructure.Implementation.csprojAssemblyReference.cache
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\Infrastructure.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\Infrastructure.Implementation.AssemblyInfoInputs.cache
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\Infrastructure.Implementation.AssemblyInfo.cs
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\Infrastructure.Implementation.csproj.CoreCompileInputs.cache
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\Infrastructure.Implementation.csproj.CopyComplete
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\Infrastructure.Implementation.dll
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\ref\Infrastructure.Implementation.dll
+Z:\Projects\CleanArchitecture\Infrastructure.Implementation\obj\Debug\net5.0\Infrastructure.Implementation.pdb

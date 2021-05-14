@@ -1,0 +1,15 @@
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\bin\Debug\net5.0\DomainServices.Interfaces.deps.json
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\bin\Debug\net5.0\DomainServices.Interfaces.dll
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\bin\Debug\net5.0\ref\DomainServices.Interfaces.dll
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\bin\Debug\net5.0\DomainServices.Interfaces.pdb
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\bin\Debug\net5.0\Domain.dll
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\bin\Debug\net5.0\Domain.pdb
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\DomainServices.Interfaces.csprojAssemblyReference.cache
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\DomainServices.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\DomainServices.Interfaces.AssemblyInfoInputs.cache
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\DomainServices.Interfaces.AssemblyInfo.cs
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\DomainServices.Interfaces.csproj.CoreCompileInputs.cache
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\DomainServices.Interfaces.csproj.CopyComplete
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\DomainServices.Interfaces.dll
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\ref\DomainServices.Interfaces.dll
+Z:\Projects\CleanArchitecture\DomainServices.Interfaces\obj\Debug\net5.0\DomainServices.Interfaces.pdb

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{16039CCF-ABF9-4CC7-9B60-AA10F7D7B045}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{15C4594A-6BE5-4116-A53D-C3DCF8351EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UseCases", "Application\UseCases.csproj", "{15C4594A-6BE5-4116-A53D-C3DCF8351EAF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{AA5FEA43-1BF0-4B7B-9A00-23C9DA88D8A1}"
 EndProject
@@ -23,7 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Entities", "1 Entities", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Interfaces", "DataAccess.Interfaces\Infrastructure.Interfaces.csproj", "{D3493406-A0C1-4331-87D0-98A66FE27DD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Implementation", "Infrastructure.Implementation\Infrastructure.Implementation.csproj", "{A16B2462-C32B-4BB5-A4DC-13D384CB06B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Implementation", "Infrastructure.Implementation\Infrastructure.Implementation.csproj", "{A16B2462-C32B-4BB5-A4DC-13D384CB06B1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Infrastructure.Interfaces", "2 Infrastructure.Interfaces", "{0B589E2E-98C1-4969-A577-70C226073741}"
 EndProject
